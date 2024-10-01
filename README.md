@@ -7,6 +7,6 @@ git clone https://github.com/thuy222/weatherhanoiapi.git
 Run Project
 
 ```
-npm install
-npm start
+npm install || yarn install
+npm start || yarn start
 ```
