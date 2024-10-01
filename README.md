@@ -10,3 +10,7 @@ Run Project
 npm install || yarn install
 npm start || yarn start
 ```
+
+Preview
+
+<img src="/src/assets/preview.png" alt="Preview"/>
