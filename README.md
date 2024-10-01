@@ -1,7 +1,7 @@
 Clone repo:
 
 ```
-git clone https://github.com/thuy222/weatherhanoiapi.git
+git clone https://github.com/thuy222/hanoiweatherapi.git
 ```
 
 Run Project
